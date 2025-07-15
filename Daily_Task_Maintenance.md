@@ -38,7 +38,7 @@ As a Linux administrator and DevOps engineer, your daily tasks focus on proactiv
 - **Example**: `df -h /var/lib/docker` to check Docker storage usage.
 - **Automation**: Python script to monitor resources and alert via email if thresholds are exceeded.
 
-```x-python
+```python
 import psutil
 import smtplib
 from email.mime.text import MIMEText
@@ -120,7 +120,7 @@ if __name__ == "__main__":
 - **Example**: `systemctl is-active nginx || systemctl restart nginx` to check and restart Nginx if stopped.
 - **Automation**: Python script to monitor and restart services.
 
-```x-python
+```python
 import subprocess
 import logging
 import smtplib
@@ -197,7 +197,7 @@ if __name__ == "__main__":
 - **Example**: `tar -czvf /backup/www-$(date +%F).tar.gz /var/www` to back up web data.
 - **Automation**: Python script to back up data and sync to S3.
 
-```x-python
+```python
 import subprocess
 import datetime
 import logging
@@ -278,7 +278,7 @@ if __name__ == "__main__":
 - **Example**: `sudo ufw allow 443` to open HTTPS port.
 - **Automation**: Python script to check for updates and monitor SSH logs.
 
-```x-python
+```python
 import subprocess
 import logging
 import smtplib
