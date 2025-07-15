@@ -318,12 +318,5 @@ Below are the core commands for managing users and groups, with explanations, op
 - **Online**: Linux User Management (e.g., Linux Journey, Arch Wiki, Ubuntu Server Guide).
 - **Practice**: Use a VM to create users, groups, and test permissions.
 
----
-
-### Next Steps
-- Practice user management on your Linux machine (e.g., create a user, set up a shared group, or audit accounts).
-- Share the next topic (e.g., “Networking” or “Security”) or ask for clarification on user management, and I’ll provide clear, practical notes.
-- Want a challenge? Try scenarios like “Set up a secure user for a web server” or “Create a temporary user with an expiration date”.
-
 
 ---

@@ -380,10 +380,3 @@ Below are the core tools and commands for backup and recovery, with explanations
 - **Practice**: Use a VM with a secondary disk to practice backups and restores.
 
 ---
-
-### Next Steps
-- Practice backup and recovery on a Linux VM (e.g., set up `rsync` with cron, test `restic`, recover a deleted directory).
-- Share the next topic (e.g., “Containerization,” “Automation with Ansible,” or “Cloud Integration”) or ask for clarification, and I’ll provide clear, practical notes.
-- Want a challenge? Try scenarios like “Create a backup strategy for a MySQL database” or “Recover a server from a full disk image.”
-
----

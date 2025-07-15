@@ -245,16 +245,5 @@ Understanding the Linux folder structure empowers you to:
 - **Online**: The Filesystem Hierarchy Standard (FHS) at `https://refspecs.linuxfoundation.org/fhs.shtml`.
 - **Distros**: Check distro-specific docs (e.g., Ubuntu Wiki, Arch Wiki).
 
-### Next Steps
-- Practice navigating the filesystem on your Linux machine (e.g., explore `/etc`, check logs in `/var/log`, or list binaries in `/usr/bin`).
-- Share the next topic (e.g., “Linux File Permissions” or “Process Management”) or ask for clarification on the folder structure, and I’ll provide equally clear and practical notes.
-- Want a hands-on challenge? I can suggest scenarios like “Find and edit the SSH configuration file” or “Analyze disk usage in /var”.
-
-
----
-
-
-You're making fantastic progress in your Linux journey! As your industry coach, I'm here to guide you through the fourth topic: **Linux File Management**. Mastering file management is critical for working efficiently on Linux servers, as it involves creating, modifying, moving, and securing files and directories. Below, I'll provide clear, concise, and practical notes on Linux file management, covering essential commands, concepts, and best practices. These notes will help you confidently handle files and directories in any Linux environment. Let’s get started!
-
 ---
 

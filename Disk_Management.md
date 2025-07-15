@@ -403,10 +403,3 @@ Below are the core commands and tools for disk management, with explanations, op
 - **Practice**: Use a VM with additional virtual disks to practice partitioning, LVM, and RAID.
 
 ---
-
-### Next Steps
-- Practice disk management on a Linux VM (e.g., partition a disk, set up LVM, create a RAID array).
-- Share the next topic (e.g., “Backup and Recovery,” “Containerization,” or “Automation”) or ask for clarification, and I’ll provide clear, practical notes.
-- Want a challenge? Try scenarios like “Expand an LVM volume for a growing database” or “Recover a corrupted file system.”
-
----

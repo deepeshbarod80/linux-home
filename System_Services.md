@@ -272,10 +272,3 @@ For older systems using SysVinit, service management is script-based.
 - **Practice**: Set up a VM and experiment with services like `nginx`, `mariadb`, or `cron`.
 
 ---
-
-### Next Steps
-- Practice managing services on your Linux machine (e.g., install and configure Nginx, check logs, or create a custom service).
-- Share the next topic (e.g., “Process Management” or “Networking”) or ask for clarification on services, and I’ll provide clear, practical notes.
-- Want a challenge? Try scenarios like “Set up a LAMP stack with systemd services” or “Troubleshoot a failed MySQL service”.
-
----

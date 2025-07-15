@@ -498,10 +498,3 @@ System: Apologies, it seems the response was cut off. Let me complete the sectio
 - **Practice**: Set up a VM (e.g., VirtualBox with Ubuntu Server) and apply hardening steps.
 
 ---
-
-### Next Steps
-- Practice these security measures on a Linux VM (e.g., secure SSH, set up a firewall, audit with Lynis).
-- Share the next topic (e.g., “Logging and Monitoring,” “Container Security,” or “Cloud Security”) or ask for clarification, and I’ll provide clear, practical notes.
-- Want a challenge? Try scenarios like “Harden a LAMP stack for production” or “Simulate a brute-force attack and mitigate it.”
-
----

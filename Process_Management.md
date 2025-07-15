@@ -312,10 +312,3 @@ Below are the core commands for managing processes, with explanations, options, 
 - **Practice**: Use a VM to experiment with `htop`, `strace`, or `lsof`.
 
 ---
-
-### Next Steps
-- Practice process management on your Linux machine (e.g., monitor with `htop`, kill a process, or adjust priorities).
-- Share the next topic (e.g., “Networking” or “User Management”) or ask for clarification on process management, and I’ll provide clear, practical notes.
-- Want a challenge? Try scenarios like “Identify and fix a high-CPU process” or “Trace a stuck process with strace”.
-
----

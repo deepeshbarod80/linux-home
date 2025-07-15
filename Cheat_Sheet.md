@@ -189,10 +189,3 @@ For enterprise-grade tasks like containerization, automation, and system optimiz
 - **Practice**: Set up a VM (e.g., Ubuntu) to test commands, especially `docker`, `rsync`, and `find`.
 
 ---
-
-### Next Steps
-- Practice these commands on a Linux VM, starting with basic (`ls`, `cat`), moving to intermediate (`rsync`, `systemctl`), and then advanced (`docker run`, `mdadm`).
-- Try a challenge like “Automate Docker image scanning with Trivy” or revisit your prior challenge’s script (`docker_monitor_cleanup.sh`) to add new features.
-- Share the next topic (e.g., “Kubernetes Orchestration,” “CI/CD Pipelines”), and I’ll provide detailed notes.
-
----

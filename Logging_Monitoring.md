@@ -358,10 +358,3 @@ Below are the core tools and commands for logging and monitoring, with explanati
 - **Practice**: Set up a VM (e.g., Ubuntu Server) and install Prometheus/Grafana, configure rsyslog, and test auditd.
 
 ---
-
-### Next Steps
-- Practice logging and monitoring on a Linux VM (e.g., set up Prometheus/Grafana, configure log rotation, audit security events).
-- Share the next topic (e.g., “Container Security,” “Cloud Security,” or “Automation with Ansible”) or ask for clarification, and I’ll provide clear, practical notes.
-- Want a challenge? Try scenarios like “Set up centralized logging for a multi-server environment” or “Create a Grafana dashboard for Nginx metrics.”
-
----

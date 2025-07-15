@@ -326,10 +326,3 @@ Mastering file management enables you to:
 - **Practice**: Try tools like `htop` or `mc` (Midnight Commander) for a GUI-like file manager in the terminal.
 
 ---
-
-### Next Steps
-- Practice these commands on your Linux machine (e.g., create/edit files in `/tmp`, manage permissions, or archive `/home`).
-- Share the next topic (e.g., “Linux File Permissions” or “System Services”) or ask for clarification on file management, and I’ll provide clear, practical notes.
-- Want a challenge? Try scenarios like “Set up a directory structure for a web server” or “Find and delete old logs in /var/log”.
-
----

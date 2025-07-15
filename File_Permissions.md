@@ -294,10 +294,3 @@ Beyond `rwx`, Linux supports special permissions for advanced control:
 - **Practice**: Experiment on a VM or use tools like `stat` for detailed file info.
 
 ---
-
-### Next Steps
-- Practice these commands on your Linux machine (e.g., set permissions for a test file, configure a web directory, or troubleshoot access issues).
-- Share the next topic (e.g., “Process Management” or “System Services”) or ask for clarification on permissions, and I’ll provide clear, practical notes.
-- Want a challenge? Try scenarios like “Secure an SSH key pair” or “Set up a shared directory for a team”.
-
----
